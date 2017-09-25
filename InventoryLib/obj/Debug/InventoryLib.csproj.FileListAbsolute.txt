@@ -1,0 +1,6 @@
+C:\MyDOC\Проекты\C#\Developer\InventoryLib\InventoryLib\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\InventoryLib\InventoryLib\bin\Debug\InventoryLib.dll
+C:\MyDOC\Проекты\C#\Developer\InventoryLib\InventoryLib\bin\Debug\InventoryLib.pdb
+C:\MyDOC\Проекты\C#\Developer\InventoryLib\InventoryLib\obj\Debug\InventoryLib.dll
+C:\MyDOC\Проекты\C#\Developer\InventoryLib\InventoryLib\obj\Debug\InventoryLib.pdb
+C:\MyDOC\Проекты\C#\Developer\InventoryLib\InventoryLib\bin\Debug\NUnit.Framework.dll
